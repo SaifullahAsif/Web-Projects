@@ -1,0 +1,32 @@
+.container {
+  border: 5px solid yellow;
+  text-align: center;
+}
+
+.header {
+  background-color: green;
+}
+
+.section {
+  background-color: blueviolet;
+}
+
+.menu {
+  background-color: powderblue;
+  display: inline-block;
+  width: 400px;
+  height: 200px;
+  margin: auto;
+}
+
+.Aside {
+  background-color: blue;
+  display: inline-block;
+  width: 925px;
+  height: 200px;
+  margin: auto;
+}
+
+.Footer {
+  background-color: orangered;
+}
